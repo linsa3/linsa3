@@ -1,9 +1,9 @@
 {
   "_chunk-aac2503e.js": {
-    "file": "assets/chunks/chunk-aac2503e.js"
+    "file": "linsa3/chunks/chunk-aac2503e.js"
   },
   "_chunk-f74aa845.js": {
-    "file": "assets/chunks/chunk-f74aa845.js"
+    "file": "linsa3/chunks/chunk-f74aa845.js"
   },
   "node_modules/vite-plugin-ssr/dist/esm/client/client-routing-runtime/entry.js": {
     "dynamicImports": [
@@ -12,7 +12,7 @@
       "renderer/_default.page.client.tsx",
       "renderer/_default.page.server.tsx?extractAssets&lang.tsx"
     ],
-    "file": "assets/entries/entry-client-routing.b20773ad.js",
+    "file": "linsa3/entries/entry-client-routing.fb45c999.js",
     "imports": [
       "_chunk-aac2503e.js"
     ],
@@ -26,7 +26,7 @@
       "renderer/_default.page.client.tsx",
       "renderer/_default.page.server.tsx?extractAssets&lang.tsx"
     ],
-    "file": "assets/entries/entry-server-routing.5b5a7283.js",
+    "file": "linsa3/entries/entry-server-routing.9b39c724.js",
     "imports": [
       "_chunk-aac2503e.js"
     ],
@@ -34,7 +34,7 @@
     "src": "node_modules/vite-plugin-ssr/dist/esm/client/server-routing-runtime/entry.js"
   },
   "pages/404.page.tsx": {
-    "file": "assets/entries/pages_404.page.addca538.js",
+    "file": "linsa3/entries/pages_404.page.addca538.js",
     "imports": [
       "_chunk-f74aa845.js"
     ],
@@ -43,14 +43,14 @@
     "src": "pages/404.page.tsx"
   },
   "pages/index/index.page.css": {
-    "file": "assets/static/index.page.1f1cf835.css",
+    "file": "linsa3/static/index.page.1f1cf835.css",
     "src": "pages/index/index.page.css"
   },
   "pages/index/index.page.tsx": {
     "css": [
-      "assets/static/index.page.1f1cf835.css"
+      "linsa3/static/index.page.1f1cf835.css"
     ],
-    "file": "assets/entries/pages_index_index.page.fb8b062b.js",
+    "file": "linsa3/entries/pages_index_index.page.0d05e0d9.js",
     "imports": [
       "_chunk-f74aa845.js"
     ],
@@ -59,7 +59,7 @@
     "src": "pages/index/index.page.tsx"
   },
   "renderer/_default.page.client.tsx": {
-    "file": "assets/entries/renderer_default.page.client.fbcd1379.js",
+    "file": "linsa3/entries/renderer_default.page.client.15c202e5.js",
     "imports": [
       "_chunk-f74aa845.js",
       "renderer/_default.page.server.tsx?extractAssets&lang.tsx"
@@ -69,14 +69,14 @@
     "src": "renderer/_default.page.client.tsx"
   },
   "renderer/_default.page.server.tsx?extractAssets&lang.css": {
-    "file": "assets/static/default.page.server.1aded4a9.css",
+    "file": "linsa3/static/default.page.server.1aded4a9.css",
     "src": "renderer/_default.page.server.tsx?extractAssets&lang.css"
   },
   "renderer/_default.page.server.tsx?extractAssets&lang.tsx": {
     "css": [
-      "assets/static/default.page.server.1aded4a9.css"
+      "linsa3/static/default.page.server.1aded4a9.css"
     ],
-    "file": "assets/entries/renderer_default.page.server.extractAssets.bc658ee5.js",
+    "file": "linsa3/entries/renderer_default.page.server.extractAssets.e88159ae.js",
     "isDynamicEntry": true,
     "isEntry": true,
     "src": "renderer/_default.page.server.tsx?extractAssets&lang.tsx"
