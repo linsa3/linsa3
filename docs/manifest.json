@@ -12,7 +12,7 @@
       "renderer/_default.page.client.tsx",
       "renderer/_default.page.server.tsx?extractAssets&lang.tsx"
     ],
-    "file": "linsa3/entries/entry-client-routing.fb45c999.js",
+    "file": "linsa3/entries/entry-client-routing.4e9c859b.js",
     "imports": [
       "_chunk-aac2503e.js"
     ],
@@ -26,7 +26,7 @@
       "renderer/_default.page.client.tsx",
       "renderer/_default.page.server.tsx?extractAssets&lang.tsx"
     ],
-    "file": "linsa3/entries/entry-server-routing.9b39c724.js",
+    "file": "linsa3/entries/entry-server-routing.25813bba.js",
     "imports": [
       "_chunk-aac2503e.js"
     ],
@@ -43,14 +43,14 @@
     "src": "pages/404.page.tsx"
   },
   "pages/index/index.page.css": {
-    "file": "linsa3/static/index.page.1f1cf835.css",
+    "file": "linsa3/static/index.page.3f00145a.css",
     "src": "pages/index/index.page.css"
   },
   "pages/index/index.page.tsx": {
     "css": [
-      "linsa3/static/index.page.1f1cf835.css"
+      "linsa3/static/index.page.3f00145a.css"
     ],
-    "file": "linsa3/entries/pages_index_index.page.0d05e0d9.js",
+    "file": "linsa3/entries/pages_index_index.page.ab52cb7e.js",
     "imports": [
       "_chunk-f74aa845.js"
     ],
